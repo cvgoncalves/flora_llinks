@@ -771,3 +771,13 @@ button:hover,
 .button.button-unsplash:focus {
   filter: brightness(90%);
 }
+
+/* Phone */
+.button.button-phone {
+  color: #000000;
+  background-color: #dbef02;
+}
+.button.button-phone:hover,
+.button.button-phone:focus {
+  filter: brightness(90%);
+}
