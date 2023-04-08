@@ -773,11 +773,11 @@ button:hover,
 }
 
 /* Phone */
-.button.button-phone {
-  color: #000000;
-  background-color: #dbef02;
+.button.button-contact {
+  color: #fdfdfd;
+  background-color: #3d5b8b;
 }
-.button.button-phone:hover,
-.button.button-phone:focus {
+.button.button-contact:hover,
+.button.button-contact:focus {
   filter: brightness(90%);
 }

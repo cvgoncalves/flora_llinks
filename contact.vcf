@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fogel;Flora;;;
+FN:Flora Fogel
+ORG:AJ Madison
+TITLE:Business Development Manager
+TEL;TYPE=work,voice;VALUE=uri:tel:+1-786-869-1209
+EMAIL:flora@ajmadison.com
+END:VCARD
