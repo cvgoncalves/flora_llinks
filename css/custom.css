@@ -1,0 +1,14 @@
+body {
+    background-color: #F8F9FA; /* Light grey background */
+    color: #333; /* Dark grey text */
+  }  
+  .brand-color {
+    color: rgb(35, 31, 32); /* Color from the logo */
+  }
+  .button {
+    background-color: rgb(58, 107, 180); /* Button background color from logo */
+    color: white; /* Button text color */
+  }
+  .button:hover {
+    background-color: #003366; /* Slightly darker on hover */
+  }

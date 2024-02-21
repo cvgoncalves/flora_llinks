@@ -715,7 +715,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: rgb(58, 107, 180);
 }
 .button.button-web:hover,
 .button.button-web:focus {
@@ -775,7 +775,7 @@ button:hover,
 /* Phone */
 .button.button-contact {
   color: #fdfdfd;
-  background-color: #3d5b8b;
+  background-color: rgb(35, 31, 32);
 }
 .button.button-contact:hover,
 .button.button-contact:focus {

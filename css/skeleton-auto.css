@@ -207,6 +207,19 @@ hr {
   border-radius: 50%;
 }
 
+.foot-image {
+  width: 200px; /* Adjust this width as needed */
+  height: auto; /* This will maintain the aspect ratio of the image */
+  object-fit: contain; /* This makes sure the entire image fits within the bounds without cutting any part off */
+  background-position: center; /* Centers the background image */
+  border-radius: 0%; /* Removes the circular shape to make it a rectangle */
+  display: block; /* Ensures the image is a block element, which is helpful for alignment */
+  margin: 0 auto; /* This centers the image horizontally in its container */
+  background-size: contain; /* Ensures the background image is scaled to be as large as possible */
+  background-repeat: no-repeat; /* Prevents the background image from repeating */
+}
+
+
 /* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
