@@ -77,7 +77,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #0085ff;
+  background-color: rgb(237, 131, 59);
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -775,7 +775,7 @@ button:hover,
 /* Phone */
 .button.button-contact {
   color: #fdfdfd;
-  background-color: rgb(35, 31, 32);
+  background-color: rgb(252, 198, 87);
 }
 .button.button-contact:hover,
 .button.button-contact:focus {
